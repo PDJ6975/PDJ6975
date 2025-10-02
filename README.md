@@ -38,7 +38,3 @@ Me gusta construir soluciones full-stack escalables con **Java/Spring Boot** y *
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PDJ6975&layout=compact&theme=tokyonight)
 ![Streak](https://streak-stats.demolab.com?user=PDJ6975&theme=tokyonight)
 
-<!-- Opcional:
-![Trophies](https://github-profile-trophy.vercel.app/?username=PDJ6975&theme=onedark&no-frame=true)
--->
-
